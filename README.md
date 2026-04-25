@@ -39,6 +39,9 @@ Concepts used:
 - Model checking
 
 ## How to Run
-Run the files using Python:
-- part1_search.py
-- part2_knowledge.py
+
+Run the files using:
+
+```bash
+python3 part1_search.py
+python3 part2_knowledge.py
